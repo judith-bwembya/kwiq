@@ -7763,21 +7763,21 @@ background: linear-gradient(90deg, rgba(248,178,38,1) 0%, rgba(55,168,54,1) 67%)
   -ms-border-radius: 50%;
   border-radius: 50%; }
   .services .icon.color-1 {
-    background: #eaf8fd; }
+    background: #ecdab5; }
     .services .icon.color-1 span {
-      color: #78d5ef; }
+      color: #f8b226; }
   .services .icon.color-2 {
-    background: #ebfdf4; }
+    background: #97c496; }
     .services .icon.color-2 span {
-      color: #79efb4; }
+      color: #37a836; }
   .services .icon.color-3 {
-    background: #fce7f1; }
+    background: #ecdab5; }
     .services .icon.color-3 span {
-      color: #ee76ad; }
+      color: #f8b226; }
   .services .icon.color-4 {
-    background: #fdf2ea; }
+    background: #97c496; }
     .services .icon.color-4 span {
-      color: #efac78; }
+      color:#37a836; }
 
 .services .media-body h3 {
   font-size: 17px; }
